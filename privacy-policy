@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arcanara Tarot Bot — Privacy Policy</title>
+  <style>
+    body {
+      font-family: "Georgia", serif;
+      background-color: #0b0b10;
+      color: #f3f1f6;
+      margin: 0;
+      padding: 40px;
+      line-height: 1.7;
+    }
+    h1, h2 {
+      color: #d7bfff;
+      text-align: center;
+    }
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.5em;
+    }
+    h2 {
+      margin-top: 2em;
+      border-bottom: 1px solid #444;
+      padding-bottom: 0.3em;
+    }
+    a {
+      color: #b891f0;
+      text-decoration: none;
+      border-bottom: 1px solid #b891f0;
+    }
+    a:hover {
+      color: #fff;
+      border-color: #fff;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: #15151f;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(180, 150, 255, 0.2);
+    }
+    p {
+      margin-bottom: 1em;
+    }
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 0.9em;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌙 Arcanara Tarot Bot — Privacy Policy</h1>
+    <p><em>Last updated: October 2025</em></p>
+
+    <h2>1. Overview</h2>
+    <p>
+      This Privacy Policy explains how the Arcanara Tarot Bot (“the Bot”) handles, stores,
+      and protects information related to your use of its features within Discord.
+      The Bot aims to respect user privacy while maintaining the functionality of its readings.
+    </p>
+
+    <h2>2. Information Collected</h2>
+    <p>
+      The Bot does not collect personal information such as real names, emails, or locations.
+      However, it may temporarily process limited data provided automatically by Discord,
+      including:
+    </p>
+    <ul>
+      <li>Your Discord username and ID (used to identify your readings).</li>
+      <li>Messages sent to the Bot (used only for providing readings or commands).</li>
+      <li>Server and channel IDs (used for message routing and context).</li>
+    </ul>
+
+    <h2>3. Data Storage</h2>
+    <p>
+      The Bot does not maintain permanent databases or external data logs.
+      Temporary information, such as your current intention or recent reading, is stored
+      only in memory and is lost when the Bot restarts. No data is sold, shared, or used
+      for analytics.
+    </p>
+
+    <h2>4. Cookies and Tracking</h2>
+    <p>
+      The Bot operates entirely within Discord and does not use cookies, trackers,
+      or third-party analytics tools.
+    </p>
+
+    <h2>5. Data Security</h2>
+    <p>
+      Reasonable measures are taken to secure the Bot’s hosting environment and prevent
+      unauthorized access. Because Discord manages message delivery and auth
